@@ -38,7 +38,7 @@
     "@types/jsonwebtoken": "^9.0.6",
     "@types/multer": "^1.4.11",
     "@types/pg": "^8.11.2",
-    "drizzle-kit": "^0.21.4",
+    "drizzle-kit": "^0.22.8",
     "nodemon": "^3.1.0",
     "prettier": "^3.2.5",
     "ts-node": "^10.9.2",
